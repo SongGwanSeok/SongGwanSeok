@@ -2,7 +2,6 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=48d1cc&text=Welcome!&height=150&fontSize=60&desc=GwanSeok's%20GitHub%20&descAlignY=75&descAlign=60)
 
-<br>
 <div align="center">
     
 ## ⚒️ Skills
