@@ -3,10 +3,11 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=48d1cc&text=Welcome!&height=150&fontSize=60&desc=GwanSeok's%20GitHub%20&descAlignY=75&descAlign=60)
 
 <br>
-
+<div align="center">
+    
 ## ⚒️ Skills
 
-<div align="center">
+
 <p><b>Languages</b></p>
 
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF) 
@@ -32,7 +33,7 @@
 
 ![EC2](https://img.shields.io/badge/ec2-FF7F00?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF)
 ![RDS](https://img.shields.io/badge/rds-0067A3?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF)
-</div>
+
     
   
 <br>
@@ -47,4 +48,5 @@
   <a href="mailto:sgs980902@naver.com" target="_blank"><img src="https://img.shields.io/badge/sgs980902@naver.com-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 
+</div>
 </div>
