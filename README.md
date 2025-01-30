@@ -1,37 +1,33 @@
-
-<div align="center">
     
-## ⚒️ Skills
+## Song GwanSeok(송관석)
+Back-end developer
+
+## 📚Career
+<li><b> Software Maestro (24.03 ~ 24.12) </b></li>
+<li><b> Sejong University (22.03 ~ 24.02) </b></li>
+
+## 🛠️ Skills
+
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python)
+
+### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,bash,postman)
+
+### Framework
+[![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,gradle,fastapi)](https://skillicons.dev)
+
+### Frontend
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap)
+
+### Cloud Technologies
+[![Cloud Technologies](https://skillicons.dev/icons?i=aws,docker,linux,nginx)](https://skillicons.dev)
 
 
-<p><b>Languages</b></p>
+## 💻 Projects
+<li><b><a href="https://github.com/edu-pi"> 파이썬 코드를 시각화 해주는 교육 플랫폼 "edupi" </a></b></li>
+<li><b><a href="https://github.com/SongGwanSeok/Funcarenet2.0"> 병원치료 이후 재활, 예방을 위한 환자들의 회복을 돕는 플랫폼 "Funcare2.0" </a></b></li>
 
-![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF) 
-![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=FFFFFF) 
-![TypeScript](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFFFFF)
-<br>
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
-![c](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=c&logoColor=FFFFFF)
-![c++](https://img.shields.io/badge/C++-8B00FF?&style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-
-
-<p><b>Database & Framework</b></p>
-
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF) 
-![SpringSecurity](https://img.shields.io/badge/spring&nbsp;security-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF) 
-![Mysql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF) 
-
-<p><b>AWS Service</b></p>
-
-![EC2](https://img.shields.io/badge/ec2-FF7F00?style=for-the-badge&logo=amazonec2&logoColor=FFFFFF)
-![RDS](https://img.shields.io/badge/rds-0067A3?style=for-the-badge&logo=amazonrds&logoColor=FFFFFF)
-
-    
-  
 <br>
   
 ## 📈 Stats
@@ -44,5 +40,4 @@
   <a href="mailto:sgs980902@naver.com" target="_blank"><img src="https://img.shields.io/badge/sgs980902@naver.com-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 
-</div>
 </div>
